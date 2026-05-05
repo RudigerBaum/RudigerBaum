@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Rudiger Baumfirst
+# Hey there! 👋 I'm Rudiger Baumfürst
 
 <div align="center">
 
@@ -73,5 +73,5 @@ I'm always open to collaboration, discussions about open-source, and helping fel
 <div align="center">
 
 ### ⭐ If you like my work, feel free to star my repos and follow me!
-
+UwU
 </div>
