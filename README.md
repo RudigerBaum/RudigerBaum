@@ -47,9 +47,9 @@ I'm a mid-level developer passionate about building solid, scalable applications
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudigerBaumFirst&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RudigerBaum&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudigerBaumFirst&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RudigerBaum&layout=compact&theme=radical)
 
 ---
 
